@@ -1,0 +1,27 @@
+{
+  "name": "axios-http-client",
+  "version": "1.0.0",
+  "description": "Axios based http client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaazgarcia/axios-http-client.git"
+  },
+  "keywords": [
+    "axios",
+    "http",
+    "client"
+  ],
+  "author": "Isaac Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaazgarcia/axios-http-client/issues"
+  },
+  "homepage": "https://github.com/isaazgarcia/axios-http-client#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
